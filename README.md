@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GuMauriz
+- 👋 Hi, I’m Gustavo Mauriz
 - 👀 I’m interested in progamming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: guguchagu@gmail.com
 
 <!---
 GuMauriz/GuMauriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
